@@ -10,8 +10,10 @@ I enjoy building practical tools that solve real workflow problems, especially p
 - React
 - Node.js / Express
 - Python / Flask
+- Java / Spring Boot
 - PostgreSQL
 - MongoDB / Mongoose
+- Bootstrap / Tailwind CSS
 - REST APIs
 - Jest, Supertest, Vitest, React Testing Library
 - Git / GitHub
