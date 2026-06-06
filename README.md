@@ -1,16 +1,66 @@
-## Hi there 👋
+# Hi, I'm Nikita 👋
 
-<!--
-**CodeByNikita/CodeByNikita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a junior software developer based near London, with a background in digital marketing analytics and a recent focus on full-stack engineering.
 
-Here are some ideas to get you started:
+I enjoy building practical tools that solve real workflow problems, especially projects involving backend logic, APIs, data, and user-focused features.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech I’ve worked with
+
+- JavaScript / TypeScript
+- React
+- Node.js / Express
+- Python / Flask
+- PostgreSQL
+- MongoDB / Mongoose
+- REST APIs
+- Jest, Supertest, Vitest, React Testing Library
+- Git / GitHub
+
+## Projects
+
+### Profolio
+
+A portfolio builder for developers, with authentication, project profiles, analytics, and achievement badges.
+
+Built with React, Node.js, Express, MongoDB, JWT, and bcrypt.
+
+[Live site](https://profolio.uk/) · [GitHub repo](https://github.com/NetworkLens/profolio)
+
+### Kitchen Tracker
+
+A full-stack app for tracking kitchen ingredients, expiry dates, and meal ideas.
+
+Built to practise CRUD functionality, API design, database modelling, and user-focused features.
+
+[GitHub repo](https://github.com/CodeByNikita/Kitchen-Tracker)
+
+### MakersBnB
+
+An Airbnb-style booking app with user authentication, property listings, availability, and booking requests.
+
+Built with Flask, PostgreSQL, and Python.
+
+<!-- Add links when ready: [GitHub repo](PASTE-LINK-HERE) -->
+
+### Acebook
+
+A Facebook-style social app built in a team using the MERN stack, with posts, authentication, likes, editing, and deleting features.
+
+Built with React, Node.js, Express, MongoDB, JWT, and bcrypt.
+
+<!-- Add links when ready: [GitHub repo](PASTE-LINK-HERE) -->
+
+## What I’m interested in
+
+I'm currently looking for junior software engineering opportunities where I can keep developing my skills in:
+
+- Backend development
+- Full-stack web apps
+- APIs and integrations
+- Data-focused tools
+- Clean, maintainable code
+
+## Connect with me
+
+- Portfolio: [profolio.uk](https://profolio.uk/)
+- LinkedIn: [linkedin.com/in/nikitarabheru](https://www.linkedin.com/in/nikitarabheru)
