@@ -36,13 +36,31 @@ Built to practise CRUD functionality, API design, database modelling, and user-f
 
 [GitHub repo](https://github.com/CodeByNikita/Kitchen-Tracker)
 
+### Clothing Store
+
+A full-stack e-commerce demo with a React + TypeScript frontend and an Express + MongoDB API.
+
+Built to practise full-stack project structure, API routes, database seeding, Docker setup, and frontend integration.
+
+Built with React, TypeScript, Express, MongoDB, Docker and CSS.
+
+[GitHub repo](https://github.com/CodeByNikita/clothing-store)
+
+### Trello Lite
+
+A Trello-style task management app built with React, focused on organising tasks and practising component-based UI development.
+
+Built with JavaScript and React.
+
+[GitHub repo](https://github.com/CodeByNikita/trello-lite-js-react)
+
 ### MakersBnB
 
 An Airbnb-style booking app with user authentication, property listings, availability, and booking requests.
 
 Built with Flask, PostgreSQL, and Python.
 
-<!-- Add links when ready: [GitHub repo](PASTE-LINK-HERE) -->
+[GitHub repo](https://github.com/CodeByNikita/MakersBNB_Jan_2025_Project_1)
 
 ### Acebook
 
@@ -50,7 +68,7 @@ A Facebook-style social app built in a team using the MERN stack, with posts, au
 
 Built with React, Node.js, Express, MongoDB, JWT, and bcrypt.
 
-<!-- Add links when ready: [GitHub repo](PASTE-LINK-HERE) -->
+[GitHub repo](https://github.com/CodeByNikita/acebook-mern-vite_Makers_project)
 
 ## What I’m interested in
 
