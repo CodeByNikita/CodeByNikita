@@ -63,6 +63,4 @@ I'm currently looking for junior software engineering opportunities where I can 
 - Clean, maintainable code
 
 ## Connect with me
-
-- Portfolio: [profolio.uk](https://profolio.uk/)
 - LinkedIn: [linkedin.com/in/nikitarabheru](https://www.linkedin.com/in/nikitarabheru)
