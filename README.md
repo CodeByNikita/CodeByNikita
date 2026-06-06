@@ -34,7 +34,7 @@ A full-stack app for tracking kitchen ingredients, expiry dates, and meal ideas.
 
 Built to practise CRUD functionality, API design, database modelling, and user-focused features.
 
-[GitHub repo](https://github.com/CodeByNikita/Kitchen-Tracker)
+[Live site](https://kitchen-tracker-smoky.vercel.app/) · [GitHub repo](https://github.com/CodeByNikita/Kitchen-Tracker)
 
 ### Clothing Store
 
